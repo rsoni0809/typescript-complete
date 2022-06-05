@@ -1,0 +1,23 @@
+{
+  "name": "typescript-complete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsoni0809/typescript-complete.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsoni0809/typescript-complete/issues"
+  },
+  "homepage": "https://github.com/rsoni0809/typescript-complete#readme",
+  "dependencies": {
+    "typescript": "^4.7.3"
+  }
+}
